@@ -1,0 +1,20 @@
+{
+  "name": "anti-ddos",
+  "version": "0.0.1",
+  "description": "Check your ping and check ddos attacks!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LxrsV1-YT/anti-ddos-npm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LxrsV1-YT/anti-ddos-npm/issues"
+  },
+  "homepage": "https://github.com/LxrsV1-YT/anti-ddos-npm/blob/main.README.md"
+}
