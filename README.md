@@ -1,7 +1,7 @@
 ## Table of contents
 - [USAGE](#usage)
-  | - [FUNCTIONS](#functions)
-  | - [FUNCTION-FUNCTIONS](#what-the-functions-do)
+  | [FUNCTIONS](#functions)
+  | [FUNCTION-FUNCTIONS](#what-the-functions-do)
 - [AUTHOR](#author)
 
 
